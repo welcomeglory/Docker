@@ -48,6 +48,12 @@
 
      sudo apt-get install docker-ce docker-ce-cli containerd.io
 
+![image](https://github.com/welcomeglory/Docker/assets/153584777/cc48ccb8-0093-4f2d-98d0-487b11980a44)
+
+![image](https://github.com/welcomeglory/Docker/assets/153584777/b621283d-4158-4b3b-84a1-fbeb78484b75)
+
+
+
 <h3>9. 도커 실행상태 확인</h3>
 
      sudo systemctl status docker
