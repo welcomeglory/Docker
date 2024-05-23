@@ -2,7 +2,12 @@
 
 <h3>1. putty에서 root권한으로 접속</h3>
 
-<h3>2. pwd, whoami 명령어로 root 권한인지 확인</h3>
+    sudo - root
+
+<h3>2. root 권한인지 확인</h3>
+
+![image](https://github.com/welcomeglory/Docker/assets/153584777/2193d598-7a29-4499-b086-e4c6f104f1dd)
+
 
 <h3>3. 우분투 시스템 패키지 업데이트</h3>
 
