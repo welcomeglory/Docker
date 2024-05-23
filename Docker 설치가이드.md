@@ -29,34 +29,19 @@
      sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 <h3>9. 도커 실행상태 확인</h3>
-    > sudo systemctl status docker
+
+     sudo systemctl status docker
  
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/9eee13be-1331-42f9-a390-5cbce991f749)
 
-    > active(running)이라고 나오면 docker가 돌아가고 있다는 뜻
-<br>해당 명령어에서 빠져나올때는 q 나 ctrl+c
+     active(running)이라고 나오면 docker가 돌아가고 있다는 뜻, 해당 명령어에서 빠져나올때는 q 나 ctrl+c
 
 <h3>10. 도커 실행</h3>
-    > docker run hello-world
+
+    docker run hello-world
   
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/6479856c-9181-44a3-86d7-f911b6e288ca)
 
 <h3>11. 설치된 도커버전확인</h3>
-    > docker -v 
 
-
-
-    https://velog.io/@osk3856/Docker-Ubuntu-22.04-Docker-Installation
-
-
-
-
-
-
-
-
-
-
-
-
-
+     docker -v 
