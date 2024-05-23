@@ -13,16 +13,20 @@
      sudo apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
     
 <h3>5. Docker의 공식 GPG키를 추가</h3>
-    > curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+     curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
 <h3>6. Docker의 공식 apt 저장소를 추가</h3>    
-    > sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+
+     sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
 
 <h3>7. 시스템 패키지 업데이트</h3>
-    > sudo apt-get update
+
+     sudo apt-get update
 
 <h3>8. Docker 설치</h3>
-    > sudo apt-get install docker-ce docker-ce-cli containerd.io
+
+     sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 <h3>9. 도커 실행상태 확인</h3>
     > sudo systemctl status docker
