@@ -6,28 +6,43 @@
 
 <h3>2. root 권한인지 확인</h3>
 
-![image](https://github.com/welcomeglory/Docker/assets/153584777/2193d598-7a29-4499-b086-e4c6f104f1dd)
+![image](https://github.com/welcomeglory/Docker/assets/153584777/f2a8a0b0-2fc3-4ca3-a55b-e5f2d68c4ee8)
 
 
 <h3>3. 우분투 시스템 패키지 업데이트</h3>
 
     sudo apt-get update
 
+![image](https://github.com/welcomeglory/Docker/assets/153584777/f4881ffe-c319-4cd4-b93b-a0374a3f9e96)
+
+
 <h3>4. 필요한 패키지 설치</h3>
 
      sudo apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
+
+![image](https://github.com/welcomeglory/Docker/assets/153584777/1b5d532e-3399-4d8f-8491-54d9540b66ff)
+
     
 <h3>5. Docker의 공식 GPG키를 추가</h3>
 
      curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
+![image](https://github.com/welcomeglory/Docker/assets/153584777/f4fda724-bbf8-4a2a-b2b1-2a6590cb54ba)
+
+
 <h3>6. Docker의 공식 apt 저장소를 추가</h3>    
 
      sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+    
+![image](https://github.com/welcomeglory/Docker/assets/153584777/7becb15a-69cf-4a0e-a1c3-34b200d7ef75)
+
 
 <h3>7. 시스템 패키지 업데이트</h3>
 
      sudo apt-get update
+     
+![image](https://github.com/welcomeglory/Docker/assets/153584777/4e58c3f1-cb96-4b89-bee7-f5622c38f749)
+
 
 <h3>8. Docker 설치</h3>
 
