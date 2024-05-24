@@ -57,6 +57,10 @@
     이미지명은 portainer에 이미지에 Tags 확인
 
  ![image](https://github.com/welcomeglory/Docker/assets/153584777/2aceb144-10c9-43a5-94af-ae71a31a38a2)
+
+
+ ![image](https://github.com/welcomeglory/Docker/assets/153584777/8a5bac1f-3ba4-4980-a89b-8b43dc520b21)
+
  
 
 
