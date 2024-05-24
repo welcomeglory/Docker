@@ -78,6 +78,7 @@
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/d264c11f-b0b1-48b9-90ac-eeeecbf5ea81)
 
 
+<h3>12. 실행중인 docker 확인</h3>
     docker ps
 
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/18b87f20-8f75-46b7-8d3e-3c5022a1a791)
