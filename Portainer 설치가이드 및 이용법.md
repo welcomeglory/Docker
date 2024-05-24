@@ -24,6 +24,21 @@
 
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/29f23acd-c9b3-4158-bc15-e18c8c7039c1)
 
+<h3> 6. 이미지 검색 </h3>
+
+    docker search tomcat
+
+![image](https://github.com/welcomeglory/Docker/assets/153584777/9c7c4da9-0a6c-4fde-a0e2-45d2b103e9d5)
+
+    https://hub.docker.com/
+    에서 받아올수 있음
+
+<h3> 7. 이미지 다운로드 </h3>
+
+    docker pull nginx
+
+![image](https://github.com/welcomeglory/Docker/assets/153584777/66f0b049-7884-4bb8-a92c-992f8d1471c5)
+    
 
     
 
