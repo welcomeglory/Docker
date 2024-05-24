@@ -1,5 +1,3 @@
-<h1>Portainer 설치가이드 및 이용법</h1>
-
 <h3> Portainer 설치하기</h3>
 
 <h3> Portainer 디렉토리 파일 생성 </h3>
@@ -18,6 +16,7 @@
     - 네트워크 -> 고급 -> 포트 포워딩
     - 호스트 포트, 게스트 포트는 9000으로 입력하고 나머지는 동일
 
+![image](https://github.com/welcomeglory/Docker/assets/153584777/43211f7b-ba9f-4022-86dd-532b851ee5a3)
 
     
 
