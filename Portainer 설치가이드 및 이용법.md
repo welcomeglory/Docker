@@ -1,4 +1,4 @@
-<h3> Portainer 설치하기</h3>
+<h1> Portainer 설치하기</h1>
 
 <h3> Portainer 디렉토리 파일 생성 </h3>
 
