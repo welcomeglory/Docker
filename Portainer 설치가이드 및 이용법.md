@@ -39,6 +39,25 @@
 
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/66f0b049-7884-4bb8-a92c-992f8d1471c5)
     
+<h3> 7. 이미지 목록 출력 </h3>
+
+    docker images
+
+<h3> 8. 컨테이너 만들기 </h3>
+
+    docker run -d --name {컨테이너 이름} -p : {이미지 명}
+
+    run : 이미지를 가지고 컨테이너를 만들고 구동하는 명령어.
+    -d : 컨테이너를 만들면 백그라운드에서 계속 구동하게 하는 옵션. ('데몬'이라고 읽는다.)
+    --name : 컨테이너의 이름을 지정해주는 옵션. (따로 지정해주지 않으면 무작위로 이름이 생성된다.)
+    -p : host port number와 conatiner의 port number를 연결해주는 옵션.
+
+![image](https://github.com/welcomeglory/Docker/assets/153584777/0632f7f9-75b5-40a4-97f7-7688891b9f41)
+
+이미지명 :  ![image](https://github.com/welcomeglory/Docker/assets/153584777/2aceb144-10c9-43a5-94af-ae71a31a38a2)
+
+
+
 
     
 
