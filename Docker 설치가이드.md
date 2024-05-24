@@ -4,6 +4,9 @@
 
     sudo - root
 
+![image](https://github.com/welcomeglory/Docker/assets/153584777/26fe0271-affb-4096-806f-f902aa09aa1c)
+    
+
 <h3>2. root 권한인지 확인</h3>
 
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/f2a8a0b0-2fc3-4ca3-a55b-e5f2d68c4ee8)
@@ -71,3 +74,7 @@
 <h3>11. 설치된 도커버전확인</h3>
 
      docker -v 
+
+![image](https://github.com/welcomeglory/Docker/assets/153584777/d264c11f-b0b1-48b9-90ac-eeeecbf5ea81)
+
+     
