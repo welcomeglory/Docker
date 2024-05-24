@@ -54,7 +54,9 @@
 
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/0632f7f9-75b5-40a4-97f7-7688891b9f41)
 
-이미지명 :  ![image](https://github.com/welcomeglory/Docker/assets/153584777/2aceb144-10c9-43a5-94af-ae71a31a38a2)
+    이미지명은 portainer에 이미지에 Tags 확인
+
+ ![image](https://github.com/welcomeglory/Docker/assets/153584777/2aceb144-10c9-43a5-94af-ae71a31a38a2)
 
 
 
