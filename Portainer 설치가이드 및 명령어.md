@@ -84,7 +84,13 @@ https://hub.docker.com/r/oracleinanutshell/oracle-xe-11g
 
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/ec54f2cb-c8d0-49c9-bd2c-378e5d69ee76)
 
+    sqlplus
 
+    user-name: system
+    password: oracle
+    
+
+    
 
 
 
