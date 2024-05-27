@@ -69,8 +69,14 @@ https://hub.docker.com/r/oracleinanutshell/oracle-xe-11g
 
 docker hub(search) -> pull(image download) -> run(build container - create program) 
 
+![image](https://github.com/welcomeglory/Docker/assets/153584777/e23ec8d1-f2ab-4ba1-b2c8-8618a7730f7c)
+
+
+
 
     
+password => oracle
+
 
 
     
