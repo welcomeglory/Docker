@@ -67,7 +67,7 @@
 
 https://hub.docker.com/r/oracleinanutshell/oracle-xe-11g
 
-docker hub(search) -> pull(image download) -> run(build container) 
+docker hub(search) -> pull(image download) -> run(build container - create program) 
 
 
     
