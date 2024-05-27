@@ -71,16 +71,6 @@ https://hub.docker.com/r/oracleinanutshell/oracle-xe-11g
 
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/e23ec8d1-f2ab-4ba1-b2c8-8618a7730f7c)
 
-    password => oracle
-
-![image](https://github.com/welcomeglory/Docker/assets/153584777/bdf3070b-718f-4b17-afe8-58d09c40d1d5)
-
-
-컨터이너 하나하나가 리눅스기반 OS를 가짐(ME는 우분투 사용)
-
-리눅스 위에 어플리케이션(예:오라클)이 돌아가는 구조임
-
-    docker exec -it 컨테이너이름 bash => 컨테이너 안에 BASH쉘을 실행시켜라.
 
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/ec54f2cb-c8d0-49c9-bd2c-378e5d69ee76)
 
@@ -88,6 +78,20 @@ https://hub.docker.com/r/oracleinanutshell/oracle-xe-11g
 
     user-name: system
     password: oracle
+
+
+![image](https://github.com/welcomeglory/Docker/assets/153584777/bdf3070b-718f-4b17-afe8-58d09c40d1d5)
+
+    docker exec -it 컨테이너이름 bash => 컨테이너 안에 BASH쉘을 실행시켜라.
+
+
+
+    컨터이너 하나하나가 리눅스기반 OS를 가짐(ME는 우분투 사용)
+
+    리눅스 위에 어플리케이션(예:오라클)이 돌아가는 구조임
+
+
+
     
 
     
