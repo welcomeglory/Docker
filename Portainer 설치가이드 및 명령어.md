@@ -71,11 +71,10 @@ docker hub(search) -> pull(image download) -> run(build container - create progr
 
 ![image](https://github.com/welcomeglory/Docker/assets/153584777/e23ec8d1-f2ab-4ba1-b2c8-8618a7730f7c)
 
-
-
-
-    
 password => oracle
+
+![image](https://github.com/welcomeglory/Docker/assets/153584777/bdf3070b-718f-4b17-afe8-58d09c40d1d5)
+
 
 
 
