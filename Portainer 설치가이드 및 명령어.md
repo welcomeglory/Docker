@@ -1,4 +1,4 @@
-<h1> Portainer 설치하기</h1>
+![image](https://github.com/welcomeglory/Docker/assets/153584777/c64cc9a3-00a1-44a8-8405-54aaf5f1bf45)<h1> Portainer 설치하기</h1>
 
 <h3> 1. Portainer 디렉토리 파일 생성 </h3>
 
@@ -61,9 +61,13 @@
 
  ![image](https://github.com/welcomeglory/Docker/assets/153584777/8a5bac1f-3ba4-4980-a89b-8b43dc520b21)
 
- 
 
+    docker run -d -p 49161:1521 oracleinanutshell/oracle-xe-11g
+![image](https://github.com/welcomeglory/Docker/assets/153584777/c05dc4df-c82a-4e11-9fb7-75df36ff7684)
 
+https://hub.docker.com/r/oracleinanutshell/oracle-xe-11g
+
+docker hub(search) -> pull(image download) -> run(build container) 
 
 
     
